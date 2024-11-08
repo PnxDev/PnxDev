@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm PnxDev</h1>
 <h3 align="center">FiveM & Minecraft custom server developer</h3>
 
@@ -6,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pnxdev&label=Profile%20views&color=0e75b6&style=flat" alt="pnxdev" /> </p>
 
-<p align="left"> <a href="https://twitter.com/the_messy_idiot_" target="blank"><img src="https://img.shields.io/twitter/follow/the_messy_idiot_?logo=twitter&style=for-the-badge" alt="the_messy_idiot_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Abhijit Das" target="blank"><img src="https://img.shields.io/twitter/follow/Abhijit Das?logo=twitter&style=for-the-badge" alt="Abhijit Das" /></a> </p>
 
 - 💬 Ask me about **You can give me a message to Discord**
 

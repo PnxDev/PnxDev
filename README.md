@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm PnxDev</h1>
 <h3 align="center">FiveM & Minecraft Custom Server Developer</h3>
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pnxdev&label=Profile%20views&color=0e75b6&style=flat" alt="pnxdev" /> </p>
 
@@ -11,7 +11,8 @@
 
 - 📧 How to reach me - **team.pnxdevolopment@gmail.com**
 
-- 📌 Our Discord joining link - **https://discord.gg/soroy-583498624592248842**
+- 📌 Our Discord joining link -
+ **https://discord.gg/soroy-583498624592248842**
 
 - 📄 Know about my experiences - 
 I Worked for 3 FiveM server Project & Verious Minecraft Custom worlds 🌍.

@@ -17,7 +17,7 @@
 - 📄 Know about my experiences - 
 I Worked for 3 FiveM server Project & Verious Minecraft Custom worlds 🌍.
 
-- ⚡ Fun fact **I am Funny 😅**
+- ⚡ Fun fact is **I am Funny 😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

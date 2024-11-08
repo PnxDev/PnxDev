@@ -1,4 +1,4 @@
-![17310979679518310011390086154191](https://github.com/user-attachments/assets/aee704fa-d4c7-4deb-bc9c-4fda5350ef99)![17310979679518310011390086154191](https://github.com/user-attachments/assets/f881ec7e-30f4-43ae-9a77-1599ae74e538)![logo](https://github.com/PnxDev/PnxDev/blob/main/PnxDev.jpg)
+![logo](https://github.com/PnxDev/PnxDev/blob/main/PnxDev.jpg)
 
 <h1 align="center">Hi 👋, I'm PnxDev</h1>
 <h3 align="center">FiveM & Minecraft custom server developer</h3>

@@ -1,7 +1,7 @@
 ![logo](https://github.com/PnxDev/PnxDev/blob/main/PnxDev.jpg)
 
 <h1 align="center">Hi 👋, I'm PnxDev</h1>
-<h3 align="center">FiveM & Minecraft custom server developer</h3>
+<h3 align="center">FiveM & Minecraft Custom Server Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pnxdev&label=Profile%20views&color=0e75b6&style=flat" alt="pnxdev" /> </p>
 

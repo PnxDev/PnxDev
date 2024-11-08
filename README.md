@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm PnxDev</h1>
 <h3 align="center">FiveM & Minecraft custom server developer</h3>
 
-<img align="center" alt="coding" width="400" src=<"![17310958002925468415701227981832](https://github.com/user-attachments/assets/d0727642-6f51-473b-90c8-d51741a398d4)">
+![17310958002925468415701227981832](https://github.com/user-attachments/assets/d0727642-6f51-473b-90c8-d51741a398d4)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pnxdev&label=Profile%20views&color=0e75b6&style=flat" alt="pnxdev" /> </p>
 
 - 💬 Ask me about **You can give me a message to Discord**

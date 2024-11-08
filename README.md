@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm PnxDev</h1>
 <h3 align="center">FiveM & Minecraft custom server developer</h3>
 
-<img align="right" alt="coding" width="400" src=<"https://raw.githubusercontent.com/DeveshYadav13/DeveshYadav13/master/Resources/Developer.gif">
-
+<img align="right" alt="coding" width="400" src=<"https://photos.app.goo.gl/CGGW5YyN7icQ5764A">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pnxdev&label=Profile%20views&color=0e75b6&style=flat" alt="pnxdev" /> </p>
-
-<p align="left"> <a href="https://twitter.com/the_messy_idiot_" target="blank"><img src="https://img.shields.io/twitter/follow/the_messy_idiot_?logo=twitter&style=for-the-badge" alt="the_messy_idiot_" /></a> </p>
 
 - 💬 Ask me about **You can give me a message to Discord**
 
-- 📫 How to reach me **team.pnxdevolopment@gmail.com**
+- 📫 How to reach me -**team.pnxdevolopment@gmail.com**
 
-- 📄 Know about my experiences [Worked for 3 FiveM server Project & Verious Minecraft Custom worlds 🌍.](Worked for 3 FiveM server Project & Verious Minecraft Custom worlds 🌍.)
+- 📄 Know about my experiences 
+Worked for 3 FiveM server Project & Verious Minecraft Custom worlds 🌍.
 
 - ⚡ Fun fact **I am Funny 😅**
 

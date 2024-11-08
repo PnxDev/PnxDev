@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm PnxDev</h1>
 <h3 align="center">FiveM & Minecraft custom server developer</h3>
 
-src="https://komarev.com/ghpvc/?username=pnxdev&label=Profile%20views&color=0e75b6&style=flat" alt="pnxdev" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pnxdev&label=Profile%20views&color=0e75b6&style=flat" alt="pnxdev" /> </p>
 
 - 💬 Ask me about **You can give me a message to Discord**
 

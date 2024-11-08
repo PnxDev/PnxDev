@@ -6,10 +6,12 @@
 
 - 💬 Ask me about **You can give me a message to Discord**
 
-- 📫 How to reach me -**team.pnxdevolopment@gmail.com**
+- 📧 How to reach me - **team.pnxdevolopment@gmail.com**
 
-- 📄 Know about my experiences 
-Worked for 3 FiveM server Project & Verious Minecraft Custom worlds 🌍.
+- 📌 Our Discord joining link - **https://discord.gg/soroy-583498624592248842**
+
+- 📄 Know about my experiences - 
+I Worked for 3 FiveM server Project & Verious Minecraft Custom worlds 🌍.
 
 - ⚡ Fun fact **I am Funny 😅**
 

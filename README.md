@@ -1,10 +1,9 @@
-![logo](https://github.com/PnxDev/PnxDev/blob/main/PnxDev.jpg)
+![17310979679518310011390086154191](https://github.com/user-attachments/assets/aee704fa-d4c7-4deb-bc9c-4fda5350ef99)![17310979679518310011390086154191](https://github.com/user-attachments/assets/f881ec7e-30f4-43ae-9a77-1599ae74e538)![logo](https://github.com/PnxDev/PnxDev/blob/main/PnxDev.jpg)
 
 <h1 align="center">Hi 👋, I'm PnxDev</h1>
 <h3 align="center">FiveM & Minecraft custom server developer</h3>
 
-![17310958002925468415701227981832](https://github.com/user-attachments/assets/d0727642-6f51-473b-90c8-d51741a398d4)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pnxdev&label=Profile%20views&color=0e75b6&style=flat" alt="pnxdev" /> </p>
+<img align="right" alt="coding" width="400" src="Uploading 17310979679518310011390086154191.gif">
 
 - 💬 Ask me about **You can give me a message to Discord**
 

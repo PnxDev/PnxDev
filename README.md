@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pnxdev&label=Profile%20views&color=0e75b6&style=flat" alt="pnxdev" /> </p>
+
 
 - 💬 Ask me about - **You can give me a message on Discord**
 
@@ -36,3 +36,5 @@ I Worked for 3 FiveM server Project & Verious Minecraft Custom worlds 🌍.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pnxdev&show_icons=true&locale=en" alt="pnxdev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pnxdev&" alt="pnxdev" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pnxdev&label=Profile%20views&color=0e75b6&style=flat" alt="pnxdev" /> </p>

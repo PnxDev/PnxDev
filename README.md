@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm PnxDev</h1>
 <h3 align="center">FiveM & Minecraft Custom Server Developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pnxdev&label=Profile%20views&color=0e75b6&style=flat" alt="pnxdev" /> </p>
+
 <img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
@@ -36,5 +38,3 @@ I Worked for 3 FiveM server Project & Verious Minecraft Custom worlds 🌍.
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pnxdev&" alt="pnxdev" /></p>
 
-
-<p align="middle"> <img src="https://komarev.com/ghpvc/?username=pnxdev&label=Profile%20views&color=0e75b6&style=flat" alt="pnxdev" /> </p>
